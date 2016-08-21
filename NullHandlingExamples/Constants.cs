@@ -9,5 +9,6 @@ namespace NullHandlingExamples
     public static class Constants
     {
         public static string NullValueKey = "NullValueKey";
+        public static string MissingKey = "MissingKey";
     }
 }

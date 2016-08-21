@@ -12,6 +12,7 @@ namespace NullHandlingExamples
         {
             ExceptionSamples.AccessNullExamples();
             SafePropertyAccess.Samples();
+            SafeCollectionAccess.Samples();
 
             Console.ReadKey();
         }
