@@ -44,8 +44,10 @@
   <ItemGroup>
     <Compile Include="ClassWithNulls.cs" />
     <Compile Include="Constants.cs" />
+    <Compile Include="ExceptionSamples.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SafePropertyAccess.cs" />
     <Compile Include="ToStringOrEmpty.cs" />
   </ItemGroup>
   <ItemGroup>
